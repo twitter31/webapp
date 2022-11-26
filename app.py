@@ -6,3 +6,5 @@ print (grace)
 print (lily)
 print (james)
 # bugs removed
+print (webapp automated)
+print (Hello, your app needs updating)
